@@ -1,8 +1,11 @@
 # PLSong
 Where I attempt to print out a line of a poem for programming languages starting with each letter of the alphabet.
 
+<h3>PROGRAMMING LANGUAGES COUNT: 13</h3>
+<h3>LETTERS OF THE ALPHABET COUNT: 10</h3>
+
 <h4>Here</h4>
-Ada, Bash, D, Fortran, Go, Java, Lua, Python, Smalltalk
+Ada, Bash, C, C#, D, Fortran, Go, Java, Lua, Python, Smalltalk
 
 <h4>Deleted forever because I didn't want repeated letters of the alphabet</h4>
 Lisp, Self
