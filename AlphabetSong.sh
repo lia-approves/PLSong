@@ -6,13 +6,6 @@ cd ../../../
 
 echo Bash ties it all up and throws it into the mountains.
 
-cd C#_PL
-mcs CPlSong.cs
-./CPlSong.exe
-gcc -o CPlSong.exe CPlSong.c
-./CPlSong.exe
-cd ../
-
 cd D_PL/tango-0.99.8-bin-linux-dmd.1.041
 ./bin/dmd DPlSong.d
 ./DPlSong
