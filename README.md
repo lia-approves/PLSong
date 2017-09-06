@@ -27,4 +27,4 @@ I started this project in Spring '17 as a coping mechanism for Jay Freeman's Com
 Several of the programs here are designed to be as esoteric as possible, or to prove a point about a feature of the programming language or algorithm.  Efficiency was clearly not a priority.
 </p>
 
-The most poorly thought out part of this project was bootstrapping all of the above my UCSB CSIL account.  That didn't work once I hit the memory cap.
+The most poorly thought out part of this project was bootstrapping all of the above my UCSB CSIL account.  That didn't work once I hit the memory cap.  I have now scp'd all my CSIL files to a local VM, even though I still need to reconfigure a few programming language installations that had used my csil bin and thus became corrupted in the move.
